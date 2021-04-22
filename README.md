@@ -1,4 +1,4 @@
-# typescript-app
+# Vue Exercise
 
 ## Project setup
 ```
